@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "617ce92c90c8f40c29b53cf1"
+  },
+  "Title": "Fight Club",
+  "Writer": "Chuck Palahniuko",
+  "Year": 1999,
+  "Actors": [
+    "Brad Pitt",
+    "Edward Norton"
+  ]
+},{
+  "_id": {
+    "$oid": "617ceb6c90c8f40c29b53cf2"
+  },
+  "Title": "Pulp Fiction",
+  "Writer": "Quentin Tarantino",
+  "Year": 1994,
+  "Actors": [
+    "John Travolta",
+    "Uma Thurman"
+  ]
+},{
+  "_id": {
+    "$oid": "617cec0190c8f40c29b53cf3"
+  },
+  "Title": "Inglorious Basterds",
+  "Writer": "Quentin Tarantino",
+  "Year": 2009,
+  "Actors": [
+    "Brad Pitt",
+    "Diane Kriger",
+    "Eli Roth"
+  ]
+},{
+  "_id": {
+    "$oid": "617cecaf90c8f40c29b53cf4"
+  },
+  "Title": "The Hobbit: An Unexpected Journey",
+  "Writer": "J.R.R. Tolkien",
+  "Year": 2012,
+  "Franchise": "The Hobbit"
+},{
+  "_id": {
+    "$oid": "617cedef90c8f40c29b53cf5"
+  },
+  "Title": "The Hobbit:The Desolation Smaug",
+  "Writer": "J.R.R. Tolkien",
+  "Year": 2012,
+  "Franchise": "The Hobbit"
+},{
+  "_id": {
+    "$oid": "617ceee390c8f40c29b53cf6"
+  },
+  "Title": "The Hobbit:The Battle of the Five Armies",
+  "Writer": "J.R.R. Tolkien",
+  "Year": 2014,
+  "Franchise": "The Hobbit",
+  "Synopsis": "Bilbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness."
+},{
+  "_id": {
+    "$oid": "617cef0090c8f40c29b53cf7"
+  },
+  "Title": "Pee Wee Herman's Big Adventure",
+  "Synopsis": "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it from the dragon Smaug."
+},{
+  "_id": {
+    "$oid": "617cef6f90c8f40c29b53cf8"
+  },
+  "Title": "Avatar",
+  "Synopsis": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring."
+}]
